@@ -1,4 +1,4 @@
-//java program for Bikerace
+//write a java program for Bikerace 
 importjava.util.*;
 classBikerace
 {
